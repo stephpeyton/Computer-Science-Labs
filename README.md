@@ -1,2 +1,2 @@
 # Computer-Science-Labs
-Intermediate Python Course Assignments
+Python Course Lab Assignment
